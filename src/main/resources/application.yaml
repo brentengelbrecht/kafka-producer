@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo
+
+app:
+  kafka:
+    bootstrap-servers: localhost:9092
+    topic-name: my.topic.stream
